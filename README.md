@@ -1,6 +1,6 @@
 # test cu Google API pentru blogger 
 
-You need OAuth 2.0 Client IDs because I need to post to blogger and ```googleapis``` is limited: 
+You need *OAuth 2.0 Client IDs* because I need to post to blogger and ```googleapis``` is limited: 
 
 Use to avoid 'punycode' :
 ```
