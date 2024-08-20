@@ -1,4 +1,4 @@
-# test cu Google API pentru blogger 
+# test with Google API pentru blogger 
 
 You need *OAuth 2.0 Client IDs* because I need to post to blogger and ```googleapis``` is limited: 
 
