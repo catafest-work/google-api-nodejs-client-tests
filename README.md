@@ -18,6 +18,14 @@ Alternatively, you could investigate which of your dependencies is using whatwg-
 
 Remember, while addressing deprecation warnings is good practice, your code is still functioning correctly despite this warning.
 
+Into *Google project* on *https://console.cloud.google.com/apis/credentials* set new *OAuth 2.0 Client IDs* and *Authorised redirect URIs*
+
+Set :
+
+  *For use with requests from a web server URIs 1 to : http://localhost*
+  
+... also you need to add *Blogger API* to your project .
+
 The result is this: 
 
 ![Alt blogger autometed text](screen_shot_blogger.bmp)
