@@ -1,4 +1,4 @@
-{"web":{"client_id":" --- 
+{"web":{"client_id" ...}
 from your Google project on https://console.cloud.google.com/apis/credentials set new OAuth 2.0 Client IDs and Authorised redirect URIs
 Set :
   For use with requests from a web server URIs 1 to : http://localhost
