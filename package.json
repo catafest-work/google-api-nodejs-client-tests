@@ -1,0 +1,22 @@
+{
+  "name": "google-api-nodejs-client-tests",
+  "version": "1.0.0",
+  "description": "testing with google API's nodejs client ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "keywords": [
+    "catafest",
+    "catafest-work",
+    "google",
+    "api",
+    "nodejs"
+  ],
+  "author": "catafest",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^142.0.0"
+  }
+}
