@@ -28,4 +28,4 @@ Set :
 
 The result is this: 
 
-![Alt blogger autometed text](screen_shot_blogger.bmp)
+![Alt electron application](hello_electron_application_cypress.bmp)
